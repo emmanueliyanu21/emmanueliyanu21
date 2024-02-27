@@ -7,13 +7,14 @@ I prefer to work as part of a distributed team. The ideal project would be a div
 I am open to remote, hybrid, and in-office roles.
 
 🗳️ Skills/Tech
-• React, Angular, MUI, AntD, TypeScript, GraphQL, Styled Components, Tailwind, Firebase, Prisma, Express, NextJS and Figma.
 
-• Cypress, Jest, Testing Library, Playwright, Postman & Storybook.
+React, Angular, MUI, AntD, TypeScript, GraphQL, Styled Components, Tailwind, Firebase, Prisma, Express, NextJS and Figma.
 
-• Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
+Jasmine, Jest, Testing Library, Playwright, Postman & Storybook.
 
-• Writing RFCs, increasing bus factor, collaborating cross-teams.
+Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
+
+Writing RFCs, increasing bus factor, collaborating cross-teams.
 
 <!--
 **emmanueliyanu21/emmanueliyanu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
