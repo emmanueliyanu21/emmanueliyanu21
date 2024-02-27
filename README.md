@@ -6,7 +6,7 @@ I prefer to work as part of a distributed team. The ideal project would be a div
 
 I am open to remote, hybrid, and in-office roles.
 
-🗳️ Skills/Tech
+### 🗳️ Skills/Tech
 
 React, Angular, MUI, AntD, TypeScript, GraphQL, Styled Components, Tailwind, Firebase, Prisma, Express, NextJS and Figma.
 
